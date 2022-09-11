@@ -1,9 +1,14 @@
-## Howdy 👋 Welcome to my Github Profile
 
-#### My name is Ricardo Perez and I'm a Software Engineer.
-##### React.js | TypeScript
+# Howdy 👋 Welcome to my Github Profile
+
+### My name is Ricardo Perez and I'm a Software Engineer and a highly passionate Frontend Developer
+#### Languages and tools:
+##### React.js | JavaScript | TypeScript
 [![Here are a few stats about me](https://github-readme-stats.vercel.app/api?username=rperez-mx&theme=nord)](https://github.com/rperex-mx/rperez-mx)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rperez-mx&theme=nord)](https://github.com/rperez-mx/rperez-mx)
+
+
+
 <!--
 **rperez-mx/rperez-mx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
