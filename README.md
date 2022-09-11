@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rperez-mx)](https://github.com/rperez-mx/github-readme-stats)
 <!--
 **rperez-mx/rperez-mx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
