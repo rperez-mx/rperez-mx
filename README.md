@@ -4,7 +4,15 @@
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/rperez-mx)
 #### I’m Ricardo, and I'm a Software Engineer, creative, but logical, and fast learning coder who specializes in front-end development. My main goal is to create beautiful and amazing user experiences, be proactive and efficient when working, giving my extra to achieve my mission which is to translate user needs into pixel-perfect web solutions.
 
+## 📌 Pinned Repositories
 
+<br>
+
+<a href="https://github.com/rperez-mx/ludeku-webapp-v2">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rperez-mx&repo=ludeku-webapp-v2&title_color=ffffff&text_color=c9cacc&icon_color=BCAE77&bg_color=34495e" />
+</a>
+
+<br>
 
 ## &#x1f4c8; GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rperez-mx&theme=nord&title_color=BCAE77)](https://github.com/rperez-mx/rperez-mx)
