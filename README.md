@@ -1,6 +1,6 @@
 ## Howdy 👋 Welcome to my Github Profile
 
-### My name is Ricardo P
+##### My name is Ricardo P
 [![Here are a few stats about me](https://github-readme-stats.vercel.app/api?username=rperez-mx&theme=nord)](https://github.com/rperez-mx/rperez-mx)
 [![My fav langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rperez-mx&theme=nord)](https://github.com/rperez-mx/rperez-mx)
 <!--
