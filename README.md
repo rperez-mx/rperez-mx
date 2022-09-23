@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://github.com/rperez-mx/ludeku-webapp-v2">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rperez-mx&repo=ludeku-webapp-v2&title_color=ffffff&text_color=c9cacc&icon_color=BCAE77&bg_color=34495e" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rperez-mx&repo=ludeku-webapp&title_color=ffffff&text_color=c9cacc&icon_color=BCAE77&bg_color=34495e" />
 </a>
 
 
